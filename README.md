@@ -9,3 +9,4 @@
 |    3    | Report Bug Mario World.                                                                 |   ✔    |
 |    4    | Scenarios: [Automation Practice](http://automationpractice.com/index.php?)              |   ✔    |                                                   
 |    5    | Test Scrum                                                                              |   ✔    |
+|    6    | Scenarios IVR - update menu                                                             |   ✔    |
